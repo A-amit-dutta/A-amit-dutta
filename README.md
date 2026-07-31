@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/A-amit-dutta/A-amit-dutta/main/dark.svg">
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/A-amit-dutta/A-amit-dutta/main/light.svg">
 </picture>
 
-<div align="center">
+<div align="center"> -->
 
 # Hi 👋, I'm Amit Dutta
 
