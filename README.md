@@ -124,7 +124,7 @@ src="https://raw.githubusercontent.com/A-amit-dutta/A-amit-dutta/output/github-s
 
 </a>
 
-<a href="YOUR_LEETCODE">
+<a href="https://leetcode.com/u/AmitDutta03/">
 
 <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode"/>
 
